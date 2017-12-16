@@ -1,0 +1,1 @@
+Triangular/chevron small object with fixed lights at corner--very fast moving.

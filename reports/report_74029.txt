@@ -1,0 +1,1 @@
+A star-like object moved in a straight horizontal  direction and then in a circular direction&#44 ending where it started.

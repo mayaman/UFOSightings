@@ -1,0 +1,1 @@
+Hovering red orb disappears then reappears as grey-white oval before disappearing again.

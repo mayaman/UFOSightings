@@ -1,0 +1,1 @@
+Star Shooting towards earth and stops in mid air and make a 90 degree turn and slowly moves out of sight.

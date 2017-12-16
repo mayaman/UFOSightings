@@ -1,0 +1,1 @@
+Triangular object&#44 able to zig-zag in-flight without changing object orientation; emitted a beam and disappeared.

@@ -1,0 +1,1 @@
+Aerial light makes turns not possible for aircraft.

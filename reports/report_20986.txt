@@ -1,0 +1,1 @@
+Triangular shape ship with red light on bottom moving a circular motion. Went very slowly.

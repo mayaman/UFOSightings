@@ -1,0 +1,1 @@
+Lights 6-8 going from right to left with whole object moving from right to left slowly in air (pretty wide object)

@@ -1,0 +1,1 @@
+Slow &quot;satelite&quot; stops&#44changes color and fades out.

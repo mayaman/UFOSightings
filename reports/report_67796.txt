@@ -1,0 +1,1 @@
+Pulsating sphere changing in size.

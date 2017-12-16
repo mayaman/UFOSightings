@@ -1,0 +1,1 @@
+Lighted object in orbital motion changed color&#44 stopped&#44 moved erratically at varying speeds&#44 on a non-orbital path.

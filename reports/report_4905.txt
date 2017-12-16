@@ -1,0 +1,1 @@
+Sphere object flashing three colors and moving slow  from side to side in a bright white. 500 Lights On Object0: Yes

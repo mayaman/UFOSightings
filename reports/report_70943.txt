@@ -1,0 +1,1 @@
+Fireball stops and turns into horizontal line of five lights.

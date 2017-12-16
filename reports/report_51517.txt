@@ -1,0 +1,1 @@
+Daylight object passes by moon and makes random movements.

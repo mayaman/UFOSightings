@@ -1,0 +1,1 @@
+Spherical object hovered then moved away at an extremely high rate of speed.

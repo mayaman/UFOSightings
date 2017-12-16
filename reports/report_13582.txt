@@ -1,0 +1,1 @@
+4 fireballs moving together in a single line.

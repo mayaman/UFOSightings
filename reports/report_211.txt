@@ -1,0 +1,1 @@
+Bright red light object made random moves horizontally and floated for a while and then went up vertically.

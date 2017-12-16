@@ -1,0 +1,1 @@
+Circle shaped objects composed of 4 lights - changed colours - moved erratically in the sky for long duration

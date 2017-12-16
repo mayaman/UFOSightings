@@ -1,0 +1,1 @@
+Ball of light that was able to turn on and off as well as move at speeds that seemed regardless of inertia.

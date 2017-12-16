@@ -1,0 +1,1 @@
+Three spherical shaped objects flying in a triangle position and slowly rotating.

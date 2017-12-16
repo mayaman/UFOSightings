@@ -1,0 +1,1 @@
+Circular Object with many lights.

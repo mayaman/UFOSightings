@@ -1,0 +1,1 @@
+Light traveling in semi-circular path changing color and shedding particles.

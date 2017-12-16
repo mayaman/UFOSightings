@@ -1,0 +1,1 @@
+This object was not projecting light forward.  It was making no sounds of any kind and when it moved from west to the east it wasn&#8217;t a

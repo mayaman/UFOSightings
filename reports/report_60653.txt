@@ -1,0 +1,1 @@
+Disklike object with rotating changing colors floating moderately low above the ground.

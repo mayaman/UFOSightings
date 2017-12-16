@@ -1,0 +1,1 @@
+It did emit audio sound which was within my Db range.

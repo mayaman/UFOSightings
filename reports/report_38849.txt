@@ -1,0 +1,1 @@
+Triangular distortion hovers and vanishes with pulse.

@@ -1,0 +1,1 @@
+Individual shinning objects forming a triangle shape.

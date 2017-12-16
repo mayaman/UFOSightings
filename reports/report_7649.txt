@@ -1,0 +1,1 @@
+Black object moving slowly from North to South.

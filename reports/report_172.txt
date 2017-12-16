@@ -1,0 +1,1 @@
+pulsing flash recurring at 2 second intervals 3 times along the same trajectory along 90 degrees of sky

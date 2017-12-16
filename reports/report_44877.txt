@@ -1,0 +1,1 @@
+Star-like object that zig zaged&#44 moved in different directions (diagonally)&#44 and had no constant speed.

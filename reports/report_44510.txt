@@ -1,0 +1,1 @@
+Sphere shaped object with colors moving at a abnormal rate of speed.

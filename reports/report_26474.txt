@@ -1,0 +1,1 @@
+Rotating fireball changes direction and speed&#44 with a rotating arm.

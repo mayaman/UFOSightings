@@ -1,0 +1,1 @@
+Fast moving object from east to west which vanished for a while then appeared much farther away.

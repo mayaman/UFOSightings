@@ -1,0 +1,1 @@
+2 objects dock -stay together 10 minutes then seperate in different directions -gain altitude until out of sight

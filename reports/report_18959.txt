@@ -1,0 +1,1 @@
+This object has well defined colored square lights that moved across back and forth along a horizontal plane.  It&#39s upper and lower se

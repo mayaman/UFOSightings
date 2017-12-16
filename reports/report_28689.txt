@@ -1,0 +1,1 @@
+A bright star type of object&#44 with controlled movement&#44 that came to a stop then vanished.

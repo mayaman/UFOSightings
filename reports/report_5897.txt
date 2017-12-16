@@ -1,0 +1,1 @@
+Small circle or triangle with 3 dim white lights moving very quickly.

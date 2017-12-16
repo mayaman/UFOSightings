@@ -1,0 +1,1 @@
+Star/sphere like object moving back and forth.

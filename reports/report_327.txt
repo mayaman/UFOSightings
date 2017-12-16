@@ -1,0 +1,1 @@
+It looked like a star but it would move and after a few seconds a red aura would appear around it and emit objects.

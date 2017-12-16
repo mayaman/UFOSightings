@@ -1,0 +1,1 @@
+Object with no lights reflected light in an odd way and moved out of sight

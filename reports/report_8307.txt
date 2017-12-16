@@ -1,0 +1,1 @@
+The object seems to involve 3 lights. 2 at either side of the object which are always visible and turned red for about 10 seconds. The

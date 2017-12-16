@@ -1,0 +1,1 @@
+Star/Light object with circular counter and clockwise movements.

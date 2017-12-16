@@ -1,0 +1,1 @@
+A defined glowing oval shape moving with control.

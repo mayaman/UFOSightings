@@ -1,0 +1,1 @@
+triangle slowly moving object with &quot;lightning&quot; emitting from the front of it

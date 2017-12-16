@@ -1,0 +1,1 @@
+Triangular formation of lights moving reasonably low to the ground.

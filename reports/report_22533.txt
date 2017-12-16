@@ -1,0 +1,1 @@
+A triangular shape flys overhead and hovers over trees.

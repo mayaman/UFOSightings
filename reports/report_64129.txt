@@ -1,0 +1,1 @@
+Fast moving light object that circles other (stars) two times.

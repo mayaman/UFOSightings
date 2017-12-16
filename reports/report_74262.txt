@@ -1,0 +1,1 @@
+Saucer:  red light flashing every 3 seconds

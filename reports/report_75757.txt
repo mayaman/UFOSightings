@@ -1,0 +1,1 @@
+Point that would shift left or right as it slowly moved downward.

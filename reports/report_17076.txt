@@ -1,0 +1,1 @@
+large sphere on the ground which reflected multicoloured light when spotlight hit it.

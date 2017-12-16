@@ -1,0 +1,1 @@
+Three circular objects orbiting overhead and meeting at a point in their orbits.  Than a fourth circular object behaving the same way.

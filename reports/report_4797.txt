@@ -1,0 +1,1 @@
+3 lights in triangle formation move north

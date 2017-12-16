@@ -1,0 +1,1 @@
+Bright light stays in one spot for a few seconds then dims and disappears within 3 sec.

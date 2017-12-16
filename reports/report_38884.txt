@@ -1,0 +1,1 @@
+Disk light object with rotating white lights along bottom disappears after 5 min.

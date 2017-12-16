@@ -1,0 +1,1 @@
+A pulsing light that flashed regularly every 10 seconds; both the speed of the pulsing and intervals in between were consistent.

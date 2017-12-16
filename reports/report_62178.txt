@@ -1,0 +1,1 @@
+Dim red/orange object slowed then sped up again while maintaining trajectory

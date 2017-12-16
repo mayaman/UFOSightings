@@ -1,0 +1,1 @@
+object seen moving from one star to another

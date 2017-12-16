@@ -1,0 +1,1 @@
+Triangular object with white lights and 3 smaller chasing lights

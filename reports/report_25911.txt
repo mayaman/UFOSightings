@@ -1,0 +1,1 @@
+Looks like a normal star&#44 but moves around.  No other star around it does that.

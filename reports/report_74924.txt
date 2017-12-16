@@ -1,0 +1,1 @@
+Fireball object (2 of them) heading west to east at steady rate of speed.  No sound emitted from the craft.  Another followed behind.

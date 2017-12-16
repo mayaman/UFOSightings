@@ -1,0 +1,1 @@
+Triangle light pattern with 4th light in the center observed by 2 neighbors

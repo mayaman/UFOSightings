@@ -1,0 +1,1 @@
+light moving slowly changes speed and direction radically

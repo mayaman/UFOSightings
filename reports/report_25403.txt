@@ -1,0 +1,1 @@
+Transparent Triangular object with no lights&#44 but having circles at each corner.

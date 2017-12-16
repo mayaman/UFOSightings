@@ -1,0 +1,1 @@
+Erratic movement traveling south to north in less than 20 sec than disappeared.

@@ -1,0 +1,1 @@
+A moving object which possibly changed speed and direction in an unorthodox manner

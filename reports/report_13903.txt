@@ -1,0 +1,1 @@
+Fireball like object flying in a inconsistent line completely disappears from sight.

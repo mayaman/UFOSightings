@@ -1,0 +1,1 @@
+Fast moving object that moved left to right&#44 stopped&#44 then right to center&#44 then center to left at 1 minute intervals

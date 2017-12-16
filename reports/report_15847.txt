@@ -1,0 +1,1 @@
+Craft hovered overhead visible for about 30 seconds and then disappeared.

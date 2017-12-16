@@ -1,0 +1,1 @@
+Triangle shape lights 1 becoming 2 the one behind it disappearing and a new one in front.  They disappeared strobing lights showed up.

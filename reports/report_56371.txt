@@ -1,0 +1,1 @@
+House shape object with lights and a encounter

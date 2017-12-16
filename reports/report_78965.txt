@@ -1,0 +1,1 @@
+Metor zooming toward the ground then stops above the city and turns off all lights and moves in a straight line.

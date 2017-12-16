@@ -1,0 +1,1 @@
+Sphere shaped satellite looking object. Changed trajectory and faded out. Flying from northwest to southeast then changed to southwest.

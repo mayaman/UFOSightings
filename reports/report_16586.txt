@@ -1,0 +1,1 @@
+Square formation of 4 lighthouse like beacons rotating in sequence clockwise.

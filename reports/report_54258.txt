@@ -1,0 +1,1 @@
+A large triangle with lights on the corners moving west to east.

@@ -1,0 +1,1 @@
+Square object with a textured surface that flipped end over end as it slowly moved through the sky.

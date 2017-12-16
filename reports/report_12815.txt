@@ -1,0 +1,1 @@
+V shaped object emitting no sound or lights.

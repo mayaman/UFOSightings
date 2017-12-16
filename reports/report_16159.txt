@@ -1,0 +1,1 @@
+triangle shape with a light on each tip of the triangle. a red light on the top tip of the triangle.

@@ -1,0 +1,1 @@
+3 lights moving north in formation and each light disappeared one at a time.

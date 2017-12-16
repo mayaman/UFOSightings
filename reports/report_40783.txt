@@ -1,0 +1,1 @@
+Red light circle shape object flying from west to east then after 10 or 15 minutes it disappeared

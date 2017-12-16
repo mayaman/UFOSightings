@@ -1,0 +1,1 @@
+A circle object with 4 smaller LED looking flashing lights in the inside. 2 lights flashing vertically and other 2 flashing horizontall

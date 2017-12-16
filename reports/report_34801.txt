@@ -1,0 +1,1 @@
+Lights &quot;turning on&quot; in sequence&#44 disappearing at once

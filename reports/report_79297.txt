@@ -1,0 +1,1 @@
+Star like object with a constant speed the size of the typical star of that particular evening.

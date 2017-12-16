@@ -1,0 +1,1 @@
+Object appearing as a star was changing light intensity while moving in the night sky.

@@ -1,0 +1,1 @@
+Single light that morphs into line of lights or triangle&#44 then back to a light and speeds away.

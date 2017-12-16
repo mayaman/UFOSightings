@@ -1,0 +1,1 @@
+Black rectanlge object moving north with a blue &quot;knight rider&quot; light that blink every couple of secs

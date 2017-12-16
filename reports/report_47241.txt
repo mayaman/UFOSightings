@@ -1,0 +1,1 @@
+very bright light (white/purple) at the center of object and one smaller illuminating light on each side of the center light.

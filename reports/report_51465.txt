@@ -1,0 +1,1 @@
+Black sphere moves and hesitates in sky before joining two others.

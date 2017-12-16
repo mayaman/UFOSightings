@@ -1,0 +1,1 @@
+A Boomerang shape object.

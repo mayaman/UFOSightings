@@ -1,0 +1,1 @@
+Sphere shape object with flashing bright white lights

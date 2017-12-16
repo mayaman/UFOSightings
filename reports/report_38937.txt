@@ -1,0 +1,1 @@
+5 lights in a up and down line going on one at a time then off one at a time.

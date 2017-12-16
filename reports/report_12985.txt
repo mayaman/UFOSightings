@@ -1,0 +1,1 @@
+Fast West to East moving equilateral triangle with three white lights one on each point.

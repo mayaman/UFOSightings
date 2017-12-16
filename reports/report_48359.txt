@@ -1,0 +1,1 @@
+Triangle shaped object with lights floating in a forward motion stops after we notice it reverses and disappear.

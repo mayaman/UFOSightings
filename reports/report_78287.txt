@@ -1,0 +1,1 @@
+Rectangle object with lights moving across sky

@@ -1,0 +1,1 @@
+Small motionless red flashing light. Then it moves very slowly to another position. There is no noise.

@@ -1,0 +1,1 @@
+Silent plane-shaped shadow passing on ground in daylight when no planes are anywhere above.

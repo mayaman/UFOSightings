@@ -1,0 +1,1 @@
+Fireball like object ascending then turned abruptly and hesitates during flight path.

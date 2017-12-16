@@ -1,0 +1,1 @@
+7 light object hovers and moves in a radical fashion.

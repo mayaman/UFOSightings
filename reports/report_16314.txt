@@ -1,0 +1,1 @@
+V shaped glowing object splits up into six similar objects and quickly disperse.

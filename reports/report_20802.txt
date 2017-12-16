@@ -1,0 +1,1 @@
+3 Lights rotating fixed to each other that split up and flew off fast.

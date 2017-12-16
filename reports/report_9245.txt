@@ -1,0 +1,1 @@
+Triangle shape lights (red/green/blue) moving slowly westward.

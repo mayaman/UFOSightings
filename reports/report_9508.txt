@@ -1,0 +1,1 @@
+A triangle of three flashing red round objects moving very fast and changing formation.

@@ -1,0 +1,1 @@
+Two humanoid shapes visible inside lit window of craft.

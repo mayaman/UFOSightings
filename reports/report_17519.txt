@@ -1,0 +1,1 @@
+Slow rotating triangle with three lights&#44 one on each corner.

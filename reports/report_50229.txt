@@ -1,0 +1,1 @@
+Horizon moving orange light that totally vanishes after 30 seconds.

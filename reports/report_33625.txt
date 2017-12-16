@@ -1,0 +1,1 @@
+Red light moving object turns into white light stationary star like object.

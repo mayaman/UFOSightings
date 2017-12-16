@@ -1,0 +1,1 @@
+Object able to change its direction at anytime without having to slow down.  Very erratic behavior

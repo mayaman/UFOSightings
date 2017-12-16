@@ -1,0 +1,1 @@
+Small moving white object flying at high altitude before disappearing.

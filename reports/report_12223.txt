@@ -1,0 +1,1 @@
+Three orbs hovering in a triangular configuration.  Lights intermittently disappear and reappear as one light.

@@ -1,0 +1,1 @@
+Satilite looking dot that would &quot;streak&quot; every minute or so.

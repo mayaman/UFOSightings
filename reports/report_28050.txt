@@ -1,0 +1,1 @@
+Satelite object with some strange movement. Satelites don&#39 t do this. do they??

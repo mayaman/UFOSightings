@@ -1,0 +1,1 @@
+3 slowly moving objects in a triangle form.

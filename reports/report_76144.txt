@@ -1,0 +1,1 @@
+White zigzagging shpere splits into two spheres.

@@ -1,0 +1,1 @@
+10 orange orbs moving slow from east to west.  Last one hovered before it vanished. No sound.

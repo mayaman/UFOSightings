@@ -1,0 +1,1 @@
+Star like objects moving in a uncontrollable path. One stopped and then kept moving.

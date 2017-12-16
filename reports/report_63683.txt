@@ -1,0 +1,1 @@
+Small ball of light...similar to a star.  Floated downwards then slowly die out.

@@ -1,0 +1,1 @@
+slow moving object changed colors from violet to white to transparent except for a spot in the center that was constant

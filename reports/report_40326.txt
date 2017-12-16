@@ -1,0 +1,1 @@
+Invsible object casts large fast moving shadow on ground

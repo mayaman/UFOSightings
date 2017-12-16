@@ -1,0 +1,1 @@
+Round object that emited light&#44 or reflected sunlight onto ground by the camera&#44 1 hour after sunrise

@@ -1,0 +1,1 @@
+Lights moving from west to east.

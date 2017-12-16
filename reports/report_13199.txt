@@ -1,0 +1,1 @@
+Large sphere floating in two halfs then moving together before moving south.

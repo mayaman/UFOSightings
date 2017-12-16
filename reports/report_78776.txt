@@ -1,0 +1,1 @@
+Flying object in the background of our video in video class flies 100 yards in less than 1/2 a second

@@ -1,0 +1,1 @@
+Three triangle lights plus one separate light

@@ -1,0 +1,1 @@
+White Orb leaves ground to go up to an object

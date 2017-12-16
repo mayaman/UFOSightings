@@ -1,0 +1,1 @@
+Sphere shaped object with an illuminated green star shape on bottom with alternating red lights.

@@ -1,0 +1,1 @@
+Trangular shape with red base color and three yellow lights at points of triangle seen moving; no sound.

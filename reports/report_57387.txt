@@ -1,0 +1,1 @@
+Triangular object with lights rotated as it flew over me.

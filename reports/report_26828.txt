@@ -1,0 +1,1 @@
+Shimmering multicolored light/sphere changes to circular configuration of lights and then back to sphere.

@@ -1,0 +1,1 @@
+A triangular shaped object this a white light at each vertex and a red light in the center.

@@ -1,0 +1,1 @@
+Cluster of &quot;stars&quot; move after being at a stand still.

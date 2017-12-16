@@ -1,0 +1,1 @@
+Slow moving object splits and one part sped away while the bigger part slowly moved in the opposite direction.

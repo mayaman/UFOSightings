@@ -1,0 +1,1 @@
+Glowing orb of light follows test sled and then shoots off toward viewer.

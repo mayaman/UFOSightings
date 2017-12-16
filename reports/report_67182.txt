@@ -1,0 +1,1 @@
+Solid triangular object with lights on each corner making periodic 90 degree turns without slowing or banking.

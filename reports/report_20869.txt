@@ -1,0 +1,1 @@
+UFO looses cloak while traveling.

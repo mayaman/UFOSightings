@@ -1,0 +1,1 @@
+A tube like object slowly moving south at a steady speed until it disapeared.

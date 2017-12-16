@@ -1,0 +1,1 @@
+Triangle; no lights or sound

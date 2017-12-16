@@ -1,0 +1,1 @@
+Triangle shaped object with red pulsating lights with instant change of direction and speed.

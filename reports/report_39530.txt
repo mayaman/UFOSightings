@@ -1,0 +1,1 @@
+Stationary hovering object that changed in color&#44 shape and magnitude.

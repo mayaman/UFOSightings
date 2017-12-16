@@ -1,0 +1,1 @@
+Fireball changes directions a stops in the sky.

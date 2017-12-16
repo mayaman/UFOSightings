@@ -1,0 +1,1 @@
+Glowing Spheres moving in all directions emitting beams of light.

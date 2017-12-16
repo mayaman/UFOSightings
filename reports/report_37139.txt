@@ -1,0 +1,1 @@
+A slow moveing amber light that would increase and decrease brightness&#44 sustaining its brightness in 5 second intervals. Turning at a 8

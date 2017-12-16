@@ -1,0 +1,1 @@
+Fireball falling to earth&#44 stops mid fall&#44 hovers and then engages in horizontal movement&#44 disappearing and then reappearing.

@@ -1,0 +1,1 @@
+Triangle-shape with three smaller triangles at each corner glowing fuzzy Orange.

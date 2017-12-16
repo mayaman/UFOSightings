@@ -1,0 +1,1 @@
+Blinking light zig-zags and merges with a star.

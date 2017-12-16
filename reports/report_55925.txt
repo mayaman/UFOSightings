@@ -1,0 +1,1 @@
+Starlike objects  rotate around each other &amp; then speed away in opposite directions in an erractic flight path at varying speeds.

@@ -1,0 +1,1 @@
+Cyan Orb that moves left to right while movie in one direction

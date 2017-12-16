@@ -1,0 +1,1 @@
+It seems to move left and right and up and down in it&#39s pattern of flight.

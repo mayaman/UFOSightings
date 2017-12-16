@@ -1,0 +1,1 @@
+Three lights forming an equalateral triangle appeared and then disappeared while never changing position.

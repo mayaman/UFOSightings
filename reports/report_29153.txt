@@ -1,0 +1,1 @@
+5 ships move from n.east to the south. All ships of disk shape.

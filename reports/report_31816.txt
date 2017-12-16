@@ -1,0 +1,1 @@
+spotted horizontally traversing circular/spherical object

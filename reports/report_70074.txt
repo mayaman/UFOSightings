@@ -1,0 +1,1 @@
+white rectangle objects slowly disapeared after moving from side by side to one above the other.

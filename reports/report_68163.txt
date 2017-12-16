@@ -1,0 +1,1 @@
+slow spinning sphere that changed from solid black to shinny transparent while floating in one spot.

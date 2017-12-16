@@ -1,0 +1,1 @@
+Multiple fast moving fire lights at different intervals on same vector disappearing at same spot.

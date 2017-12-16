@@ -1,0 +1,1 @@
+2 blue-lit conicle objects rotate around each other and then &quot;morph&quot; into 1 object and disappear.

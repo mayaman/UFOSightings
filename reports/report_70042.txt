@@ -1,0 +1,1 @@
+Still light object accelerates to right in night sky and disappears.

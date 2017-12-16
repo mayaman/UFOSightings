@@ -1,0 +1,1 @@
+Rectangle object with three circular dim red lights.

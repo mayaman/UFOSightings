@@ -1,0 +1,1 @@
+Meteor objects leading toward formation of triangle lights.

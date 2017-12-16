@@ -1,0 +1,1 @@
+Zig-Zagging light similar to star moving around other stars changing intensity as if looping in/out light range

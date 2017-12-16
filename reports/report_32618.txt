@@ -1,0 +1,1 @@
+Triangle shaped object moves back n forth over tree line n dissapears over BSU.

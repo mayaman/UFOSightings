@@ -1,0 +1,1 @@
+Flying object responds to light flashing

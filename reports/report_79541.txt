@@ -1,0 +1,1 @@
+3 &quot;stars&quot; formed a triangle and moved and then disapeared one by one.

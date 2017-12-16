@@ -1,0 +1,1 @@
+Circular object with rotating changing colored lights hovering in the night sky.

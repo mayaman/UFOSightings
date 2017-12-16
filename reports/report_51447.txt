@@ -1,0 +1,1 @@
+Bright moving object high in the sky.  Changed intensity as it moved.

@@ -1,0 +1,1 @@
+Object was circular with kind of a square shape at the top (grey)

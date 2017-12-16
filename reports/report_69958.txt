@@ -1,0 +1,1 @@
+Non-blinking Light Oval Object moving though the sky.

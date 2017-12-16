@@ -1,0 +1,1 @@
+Hovering saucer with blinking lights interacts with signals from flashlights. 500 Lights On Object0: Yes

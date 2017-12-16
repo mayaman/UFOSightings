@@ -1,0 +1,1 @@
+A triangular object glowing red/orange moving accross the sky in a north-east direction.

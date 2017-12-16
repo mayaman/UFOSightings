@@ -1,0 +1,1 @@
+Triangle with circular lights on each end.

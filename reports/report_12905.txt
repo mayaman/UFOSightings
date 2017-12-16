@@ -1,0 +1,1 @@
+hovering light over Avon for 10 minutes sends signal then disappears

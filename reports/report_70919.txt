@@ -1,0 +1,1 @@
+Spherical object maintains position in sky for ten minutes over approach path to Midway Airport

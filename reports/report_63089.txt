@@ -1,0 +1,1 @@
+object flashed on then blinked out after 10 seconds

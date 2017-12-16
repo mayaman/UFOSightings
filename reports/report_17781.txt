@@ -1,0 +1,1 @@
+Sphere shaped object rising and tracking across the sky below a rainbow.

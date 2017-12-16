@@ -1,0 +1,1 @@
+Object with three lights hovering just above trees.

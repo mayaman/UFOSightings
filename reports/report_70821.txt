@@ -1,0 +1,1 @@
+Strobe type objects that vary in shape.

@@ -1,0 +1,1 @@
+A pair of lights joined by another light. They separate back into pair and single.

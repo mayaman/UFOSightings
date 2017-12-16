@@ -1,0 +1,1 @@
+Three fast moving lights that changed position frequently.

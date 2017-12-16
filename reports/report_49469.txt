@@ -1,0 +1,1 @@
+Oval object hovering and then moving sideways without noise. Green and red lights

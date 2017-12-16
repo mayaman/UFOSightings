@@ -1,0 +1,1 @@
+Perfect cone shape light in non foggy conditions turns to a spider web shape then fades away.

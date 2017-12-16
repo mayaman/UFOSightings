@@ -1,0 +1,1 @@
+3 circular shapes moving in fast/slow intermittant speeds. Moving odd distances across sky then to another. One darted off before the o

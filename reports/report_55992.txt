@@ -1,0 +1,1 @@
+Object hovers over community and emmits 4 shooting star like object down towards the community.

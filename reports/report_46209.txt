@@ -1,0 +1,1 @@
+Large triangle of three lights noislessly moves from West to East - occludes stars - fades rapidly.

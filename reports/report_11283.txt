@@ -1,0 +1,1 @@
+Triangular shaped object with orange glow moving very slowly.

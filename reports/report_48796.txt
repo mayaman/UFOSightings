@@ -1,0 +1,1 @@
+single satellite type object omits other object flies in formation and rejoins

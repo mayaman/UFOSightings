@@ -1,0 +1,1 @@
+object sits stationary for 5 minutes and then accelerates out of sight in 5 seconds.

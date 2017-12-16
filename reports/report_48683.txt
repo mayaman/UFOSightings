@@ -1,0 +1,1 @@
+Unknown light/object moving perpendicular/horizontal in seconds and disappearing then reappearing

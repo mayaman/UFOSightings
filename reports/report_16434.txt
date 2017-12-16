@@ -1,0 +1,1 @@
+Movement of three from a delta pattern to a line of three.

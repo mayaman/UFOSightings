@@ -1,0 +1,1 @@
+Spherical gray or black object with rotating ring of lights making humming noise.

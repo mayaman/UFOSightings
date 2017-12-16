@@ -1,0 +1,1 @@
+Bright flickering sphere without sound stays in position for almost 5 minutes.

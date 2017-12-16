@@ -1,0 +1,1 @@
+Light changes direction when military jet approaches.

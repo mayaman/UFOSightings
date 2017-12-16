@@ -1,0 +1,1 @@
+Glowing spherically shaped object possibly using lighting and sound to mimic conventional aircraft.

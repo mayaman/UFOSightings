@@ -1,0 +1,1 @@
+3 satellites in 10 minute span - third one changes direction and stops; resumes at higher speeds

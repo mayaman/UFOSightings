@@ -1,0 +1,1 @@
+3 lights travelling as triangle then one corner sped off at right angle followed by other two; all vanish

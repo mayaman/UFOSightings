@@ -1,0 +1,1 @@
+round object with much smaller attached object circling the main object in vertical motion

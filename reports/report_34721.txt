@@ -1,0 +1,1 @@
+When ever the objects where hit with the light from the flash light they got brighter.

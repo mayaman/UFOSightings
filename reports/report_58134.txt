@@ -1,0 +1,1 @@
+Small metalic teardrop shape object that made a parallel front-back movement.

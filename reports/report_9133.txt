@@ -1,0 +1,1 @@
+4 lights  square 1 red dot  traveling anti-clockwise

@@ -1,0 +1,1 @@
+Falling object becomes stationary

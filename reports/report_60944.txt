@@ -1,0 +1,1 @@
+Round object with red and white blinking lights. It moves around a little bit in the sky. There is no noise coming from it.

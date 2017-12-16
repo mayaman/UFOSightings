@@ -1,0 +1,1 @@
+Light bouncing around a valley. Light changes intensity&#44 brightness&#44 and color.  Disappears&#44 reappears different location.

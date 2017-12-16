@@ -1,0 +1,1 @@
+Shiny box like object floats in sky.

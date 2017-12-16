@@ -1,0 +1,1 @@
+Circular object with rotating lights.

@@ -1,0 +1,1 @@
+Object traveling south suddenly makes an immediate change of direction 45 degrees to the left&#44 speed increased threefold and disappears

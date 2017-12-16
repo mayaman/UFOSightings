@@ -1,0 +1,1 @@
+Glowing object crosses road right to left - vanishes into ravine..than crosses again left to right..then away.

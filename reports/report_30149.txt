@@ -1,0 +1,1 @@
+Moving single white light in sky that changed directions then halted until it faded from sight.

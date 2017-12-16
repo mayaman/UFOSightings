@@ -1,0 +1,1 @@
+Small triangular formation of lights  performs flight display then vanishes over playing field.

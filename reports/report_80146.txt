@@ -1,0 +1,1 @@
+signals are returned from space hours or days later

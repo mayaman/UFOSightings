@@ -1,0 +1,1 @@
+Bright light triangle hovering then swiftly changing directions the other way.

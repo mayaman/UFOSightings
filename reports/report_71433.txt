@@ -1,0 +1,1 @@
+Glowing sphere moving north to south changing light intensity stopped and sat there.

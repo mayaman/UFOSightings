@@ -1,0 +1,1 @@
+Red blinking light appears three times&#44 changing speed and direction many times before fading away.

@@ -1,0 +1,1 @@
+A single orange glowing object moving East at a steady speed.  Began to drop flaming objects like the shards from a welders torch.  Aft

@@ -1,0 +1,1 @@
+3 lights flash less than seconds apart in a row to the right - with a &quot;fading&quot; effect.

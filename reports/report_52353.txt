@@ -1,0 +1,1 @@
+Object with lights flying my direction in a &quot;casual&quot; manner and vanishes.

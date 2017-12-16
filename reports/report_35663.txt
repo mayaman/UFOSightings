@@ -1,0 +1,1 @@
+radically strobing lights form triangular shape followed by 15 lights in random alternating strobing patterns.

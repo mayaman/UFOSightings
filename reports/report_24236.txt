@@ -1,0 +1,1 @@
+A meteor like object falling from the sky with a smoke trail that stops instantly and appears to be a green light hovering then gone.

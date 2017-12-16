@@ -1,0 +1,1 @@
+Strange flying object changing shape and only visible through certain camera devices.

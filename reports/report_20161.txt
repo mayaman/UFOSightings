@@ -1,0 +1,1 @@
+Triangle w/ 1 light on each point.

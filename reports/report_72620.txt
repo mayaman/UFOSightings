@@ -1,0 +1,1 @@
+object  white in color with red glow around it

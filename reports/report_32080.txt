@@ -1,0 +1,1 @@
+Tilted looking Object (like a forward slash ---> /  ) moving from west to east.

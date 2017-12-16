@@ -1,0 +1,1 @@
+Cylinder object floats over no noise

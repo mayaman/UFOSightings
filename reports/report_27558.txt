@@ -1,0 +1,1 @@
+triangle shape w/lights kinda transparent with fluid movement

@@ -1,0 +1,1 @@
+Object burning up or glancing off atmoshere sets a flame trail in sky.

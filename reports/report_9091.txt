@@ -1,0 +1,1 @@
+Consistent with behavior of object burning on re-entry

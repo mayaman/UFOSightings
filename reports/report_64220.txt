@@ -1,0 +1,1 @@
+A small object - first hangs still - then starts moving with BIG clouds - hangs still again and so on.

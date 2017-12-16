@@ -1,0 +1,1 @@
+Object that changes colors follows our car.

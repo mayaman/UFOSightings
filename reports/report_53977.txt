@@ -1,0 +1,1 @@
+Hovering white light that dims then regains full white light while dropping in altitude slowly and then stopping to hover.

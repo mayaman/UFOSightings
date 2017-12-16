@@ -1,0 +1,1 @@
+light splits into two objects then rejoins.

@@ -1,0 +1,1 @@
+Bar ligths equal distance projected on ground.

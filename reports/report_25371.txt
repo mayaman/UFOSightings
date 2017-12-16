@@ -1,0 +1,1 @@
+Glowing circle flying east->west twice the speed of a jet.

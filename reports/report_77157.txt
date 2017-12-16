@@ -1,0 +1,1 @@
+2objects with 3 lights in triangle shape moving very slowly at a high altitutde.

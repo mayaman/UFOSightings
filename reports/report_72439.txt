@@ -1,0 +1,1 @@
+Star like object moving randomly within 5 degree box on the horizon.

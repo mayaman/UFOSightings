@@ -1,0 +1,1 @@
+Starlike object that hovers and then slowly moves.

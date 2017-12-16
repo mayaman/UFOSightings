@@ -1,0 +1,1 @@
+Sphere creating light all around it changing size and shape when it moved.

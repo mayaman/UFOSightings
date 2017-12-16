@@ -1,0 +1,1 @@
+UFO makes 90 degree turn while maintaining velocity.

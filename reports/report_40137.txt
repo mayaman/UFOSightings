@@ -1,0 +1,1 @@
+amber color object moving from east to west along lax glidepath and on two accounts droping smaller objects of sme color.

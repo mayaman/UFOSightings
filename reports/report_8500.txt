@@ -1,0 +1,1 @@
+Disc/dome shape object shifted quickly side to side then disappeared.

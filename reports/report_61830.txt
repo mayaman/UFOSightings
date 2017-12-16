@@ -1,0 +1,1 @@
+Moving light stops in mid-flight then vanishes

@@ -1,0 +1,1 @@
+Round object with colored lights disappears instantly

@@ -1,0 +1,1 @@
+Ball of light separated into three lights and accelerated out of view.

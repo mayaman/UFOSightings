@@ -1,0 +1,1 @@
+Bright light sundenly vanished when telescope is trained on it.

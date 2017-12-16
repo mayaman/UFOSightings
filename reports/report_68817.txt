@@ -1,0 +1,1 @@
+slow moving rectangle lifts away from hover position and vanishes in a flash

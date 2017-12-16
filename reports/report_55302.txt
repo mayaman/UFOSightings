@@ -1,0 +1,1 @@
+stationary fireball changes color and redefines speed as it moves north

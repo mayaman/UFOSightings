@@ -1,0 +1,1 @@
+Triangle shaped object hovering for extended period of time and then finally vanished.

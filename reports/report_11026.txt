@@ -1,0 +1,1 @@
+Object moves from west to east&#44 makes a u-turn&#44 and goes back west. Glows orange. Repeat of 12-24 event.

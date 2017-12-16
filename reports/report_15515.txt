@@ -1,0 +1,1 @@
+Sphere light ball dimming out then pulsating an tranforming to plane lights an moving north west when noticed.

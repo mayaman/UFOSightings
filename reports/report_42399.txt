@@ -1,0 +1,1 @@
+Two objects with alternating blinking red lights move toward each other and forms a single object with four lights that speeds away.

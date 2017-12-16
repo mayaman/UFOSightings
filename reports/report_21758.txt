@@ -1,0 +1,1 @@
+Red/Orange fireball-type light moves east&#44 then west&#44 then ascends and dims out.

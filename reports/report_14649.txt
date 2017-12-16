@@ -1,0 +1,1 @@
+Sphere&#39s appear in the room within touching distance and stay for a considerable amount of time.

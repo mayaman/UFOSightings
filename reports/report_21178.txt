@@ -1,0 +1,1 @@
+Object moving at impossible speed and coming to a dead stop while two other objects are also seen.

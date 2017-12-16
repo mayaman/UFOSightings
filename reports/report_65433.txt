@@ -1,0 +1,1 @@
+View of sky occluded as an object passed overhead.

@@ -1,0 +1,1 @@
+3 lights in the shape of a triangle hover and then travel S&#44 SW.

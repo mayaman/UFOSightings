@@ -1,0 +1,1 @@
+Fireball like object moving slowly down and east then pausing and bouncing then to decrease in mass and to then drop low out of sight.

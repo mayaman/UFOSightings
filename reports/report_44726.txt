@@ -1,0 +1,1 @@
+Two objects near the moon hover move and disappear.

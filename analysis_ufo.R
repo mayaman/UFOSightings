@@ -152,3 +152,93 @@ for(i in 1:500) {
 maya.dat <- as.data.frame(fit.km$centers)
 maya.dat$Magnitude <- totals
 # write.csv maya.dat for her use
+
+# Topic Modeling
+library(tidytext)
+library(tm)
+library("tmap")
+library("tmaptools")
+library("sf")
+library("leaflet")
+library("scales")
+library(topicmodels)
+library(NLP)
+library(ggstance)
+library(ggthemes)
+#library(broom)
+text_corpus <- Corpus(VectorSource(as.vector(data$Report)))
+text_corpus <- tm_map(text_corpus, content_transformer(removePunctuation))
+text_corpus <- tm_map(text_corpus, content_transformer(tolower))
+text_corpus <- tm_map(text_corpus, content_transformer(stripWhitespace))
+text_corpus <-  tm_map(text_corpus, removeWords, stopwords("english"))
+text_corpus <- tm_map(text_corpus, content_transformer(stemDocument), language="english")
+
+DTM <- DocumentTermMatrix(text_corpus, control= list(wordLengths = c(2, Inf)))
+DTM <- removeSparseTerms(DTM, .990)
+
+rowTotals <- apply(DTM, 1, sum)
+DTM <- DTM[rowTotals > 0, ]
+
+(freq.terms <- findFreqTerms(DTM, lowfreq=15))
+term.freq <- rowSums(as.matrix(DTM))
+term.freq <- subset(term.freq, term.freq >=5)
+df2 <- data.frame(term = names(term.freq), freq = term.freq)
+
+numTopics <- 5
+
+
+#Run Latent Dirichlet Allocation (LDA) using Gibbs Sampling
+#set burn in
+burnin <-4
+#set iterations
+iter<-20
+#thin the spaces between samples
+thin <- 5
+#set random starts at 5
+nstart <-4
+#use random integers as seed 
+seed <- list(22,12,48843,48314)
+# return the highest probability as the result
+best <-TRUE
+#set number of topics 
+k <-5
+#run the LDA model
+ldaOut <- LDA(DTM,k, method="Gibbs", control=
+                list(nstart=nstart, seed = seed, best=best, burnin = burnin, iter = iter, thin=thin))
+
+gen_topics <- as.matrix(topics(ldaOut))
+gen_terms <- as.matrix(terms(ldaOut, 10))
+
+tidy_lda <- tidy(ldaOut)
+tidy_lda
+
+top_terms <- tidy_lda %>%
+  group_by(topic) %>%
+  top_n(10, beta) %>%
+  ungroup() %>%
+  arrange(topic, -beta)
+
+top_terms
+
+lda_gamma <- tidy(ldaOut, matrix = "gamma")
+lda_gamma
+
+ggplot(top_terms, aes(beta, term, fill = as.factor(topic))) +
+  geom_barh(stat = "identity", show.legend = FALSE, alpha = 0.8) +
+  labs(title = "Top 10 Terms in Each LDA Topic",
+       y = NULL, x = "beta") +
+  facet_wrap(~topic, ncol = 2, scales = "free") +
+  theme_tufte(base_size = 13, ticks = FALSE) +
+  scale_x_continuous(expand=c(0,0)) +
+  theme(strip.text=element_text(hjust=0)) +
+  theme(plot.caption=element_text(size=9))
+
+ggplot(lda_gamma, aes(gamma, fill = as.factor(topic))) +
+  geom_histogram(alpha = 0.8, show.legend = FALSE) +
+  facet_wrap(~topic, ncol = 3) +
+  scale_y_log10() +
+  labs(title = "Distribution of Probability for Each Topic",
+       y = NULL, x = "gamma") +
+  theme_minimal(base_size = 13) +
+  theme(strip.text=element_text(hjust=0)) +
+  theme(plot.caption=element_text(size=9))

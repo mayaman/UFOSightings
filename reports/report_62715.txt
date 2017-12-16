@@ -1,0 +1,1 @@
+Silent glowing fireball moved slowly (at first) in straight line.

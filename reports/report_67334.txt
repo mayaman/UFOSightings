@@ -1,0 +1,1 @@
+Silent raspberry color object that has the ability to disappear .

@@ -1,0 +1,1 @@
+lights had strobe affect in a erratic way

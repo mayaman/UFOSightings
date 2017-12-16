@@ -1,0 +1,1 @@
+Rectangular object change its shape to two spheres

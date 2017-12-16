@@ -1,0 +1,1 @@
+Lights in sky move back and forth while other lights form patterns.

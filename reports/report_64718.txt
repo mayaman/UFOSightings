@@ -1,0 +1,1 @@
+Rectangle object that had several lights.

@@ -1,0 +1,1 @@
+An object with 3 lights travelled north&#44 then west&#44 then south&#44 making 3 right angle turns. It then met up with a much larger&#44 wing-sha

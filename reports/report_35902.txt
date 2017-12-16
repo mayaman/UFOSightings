@@ -1,0 +1,1 @@
+Triangular object with about 3 lights that changed from bright white to all red when it slowed down.

@@ -1,0 +1,1 @@
+Vertically moving object that was glowing and accelerating quickly

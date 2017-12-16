@@ -1,0 +1,1 @@
+Flying object with 3 lights. One at each end . Triangular shape

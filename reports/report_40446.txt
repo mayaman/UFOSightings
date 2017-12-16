@@ -1,0 +1,1 @@
+Light orb (not blinking) with a wobble in trajectory.

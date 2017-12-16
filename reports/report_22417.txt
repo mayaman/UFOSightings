@@ -1,0 +1,1 @@
+Bright Yellow object picking up speed until losings its brightness until gone.

@@ -1,0 +1,1 @@
+A comet/firework like ball that separates and reconnects before apparently just disappearing into thin air.

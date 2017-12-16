@@ -1,0 +1,1 @@
+Grouped lights in sky moving fast in a configuration of a chevron or partial diamond.

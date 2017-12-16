@@ -1,0 +1,1 @@
+Square flying object with light on each corner flying very low and very slowly.

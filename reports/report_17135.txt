@@ -1,0 +1,1 @@
+The object was a sphere emitting red and green lights.  The lights would get brite then dim.  The object did not move for 45 minutes or

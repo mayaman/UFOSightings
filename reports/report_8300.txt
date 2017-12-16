@@ -1,0 +1,1 @@
+Triangle shaped structure with lining the perimeter.

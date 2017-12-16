@@ -1,0 +1,1 @@
+lights moving at constant speed east to west with stars moving slower behind them

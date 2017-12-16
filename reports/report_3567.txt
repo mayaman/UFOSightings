@@ -1,0 +1,1 @@
+A fast moving round light with no sound or flashing lights moved from West to East.

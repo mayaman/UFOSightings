@@ -1,0 +1,1 @@
+Light that changed color from blue to green &amp; abruptly changed at a high rate of speed.

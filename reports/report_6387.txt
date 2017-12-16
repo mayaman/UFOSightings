@@ -1,0 +1,1 @@
+Hovered solid black square/rectangle shaped object had no sound and no lights.

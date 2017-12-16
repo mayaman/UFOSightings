@@ -1,0 +1,1 @@
+Blue light orb that changes colors to red and white.

@@ -1,0 +1,1 @@
+close oval white object transforms self to a circular green object - both had trails of same color

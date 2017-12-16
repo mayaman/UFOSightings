@@ -1,0 +1,1 @@
+Horizontal traveling red light.

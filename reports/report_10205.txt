@@ -1,0 +1,1 @@
+Falling Star/Fireball changes into 4 horizontal red lights.

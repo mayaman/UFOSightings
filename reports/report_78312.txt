@@ -1,0 +1,1 @@
+Fireball Flying Object (FFO); Look like fireballs but an actual craft (this is a new origin of new entities?)

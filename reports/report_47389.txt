@@ -1,0 +1,1 @@
+7 lights in a chevron shape not sure it was one object lighted or 7 seperate ones

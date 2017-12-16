@@ -1,0 +1,1 @@
+Large object moving West to East (light bars) with blury darkness around them.

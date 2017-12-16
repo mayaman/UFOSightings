@@ -1,0 +1,1 @@
+Flashing ball that goes out and continues as a black dot at slower speed then a meteor.

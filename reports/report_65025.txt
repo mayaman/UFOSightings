@@ -1,0 +1,1 @@
+A light collides with something causing an explosion the light remains then disappears.

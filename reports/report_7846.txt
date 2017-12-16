@@ -1,0 +1,1 @@
+Horizontal twinkling lights transforming into triangle follwed by all lights going in opposite directions.

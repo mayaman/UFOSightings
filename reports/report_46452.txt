@@ -1,0 +1,1 @@
+star like object moving in a east to west directions suddenly stops. Watch object for about 30 secounds when a smaller light drops from

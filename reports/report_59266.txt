@@ -1,0 +1,1 @@
+Strobing orange craft changes position instantaneously.

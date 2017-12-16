@@ -1,0 +1,1 @@
+Triangle array of egg shaped objects.

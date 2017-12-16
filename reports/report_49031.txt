@@ -1,0 +1,1 @@
+Stars moving in a straight line.

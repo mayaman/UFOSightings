@@ -1,0 +1,1 @@
+Sphere of light traveling in opposite direction disappear before near certain collison

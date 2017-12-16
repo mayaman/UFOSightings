@@ -1,0 +1,1 @@
+Blue ball moving east to west lasting 3 -5 seconds then disappearing. Lit up surrounding area.

@@ -1,0 +1,1 @@
+Oval object with evenly spaced white blinking lights.

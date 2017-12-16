@@ -1,0 +1,1 @@
+Light object in sky dims then moves away towards downtown after hovering for several minutes.

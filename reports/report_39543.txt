@@ -1,0 +1,1 @@
+Rectangular object with rounded edges with gray outline around it and three lights which turned on and off from right to left in VT.

@@ -1,0 +1,1 @@
+Nine objects moving North to South at various speeds and direction.Emitting an orange glow.

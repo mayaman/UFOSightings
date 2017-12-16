@@ -1,0 +1,1 @@
+Three lighted circular or smooth triangle shape object.

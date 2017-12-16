@@ -1,0 +1,1 @@
+Fixed object passed overhead&#44 silently and with no running lights&#44 in clear night sky.

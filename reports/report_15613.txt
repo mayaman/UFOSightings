@@ -1,0 +1,1 @@
+a disk shape object moving with high speed

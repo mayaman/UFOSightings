@@ -1,0 +1,1 @@
+Swiftly moving triangle with brighter lights at all three corners&#44 plus one in the center.

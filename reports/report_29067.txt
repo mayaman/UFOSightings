@@ -1,0 +1,1 @@
+Three separate objects proceeding one by one towards the same direction.

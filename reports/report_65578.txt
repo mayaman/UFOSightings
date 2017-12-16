@@ -1,0 +1,1 @@
+Caught circular object in photograph.

@@ -1,0 +1,1 @@
+black triangle seems able to dissapear and reapear...somehow conected with a moving cloud..

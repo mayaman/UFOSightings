@@ -1,0 +1,1 @@
+Triange hovers over highway&#44 moves at increasing speed over highway then disappears

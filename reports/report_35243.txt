@@ -1,0 +1,1 @@
+Spherical rotating disk with lights

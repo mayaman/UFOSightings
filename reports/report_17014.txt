@@ -1,0 +1,1 @@
+5 lights 4 white 1 red rectangle

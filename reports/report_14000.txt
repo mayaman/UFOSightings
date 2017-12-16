@@ -1,0 +1,1 @@
+Star moving on a zig zag and cicular motion.

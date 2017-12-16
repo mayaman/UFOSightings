@@ -1,0 +1,1 @@
+Stealth shaped object. No lights and NO sound.

@@ -1,0 +1,1 @@
+Round dimly lit object moves and appears to notice observer.

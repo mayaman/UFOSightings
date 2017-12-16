@@ -1,0 +1,1 @@
+3 different type of lights spinning CW and CCW against each other and the craft would appear and disappear.

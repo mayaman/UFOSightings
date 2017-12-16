@@ -1,0 +1,1 @@
+Group of lights moving across sky during daylight hours.

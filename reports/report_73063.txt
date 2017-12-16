@@ -1,0 +1,1 @@
+A flying object with 3-5 lights inside a changing shape&#44 on a straight (west to east) trajectory.

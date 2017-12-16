@@ -1,0 +1,1 @@
+Stationary cylinder object lights up sky and rockets out of sight.

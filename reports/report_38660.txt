@@ -1,0 +1,1 @@
+A yellow light that would stop moving and then would continue at a fast pace.

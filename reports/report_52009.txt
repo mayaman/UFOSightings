@@ -1,0 +1,1 @@
+Lights appear and then rotate upwards into the sky.

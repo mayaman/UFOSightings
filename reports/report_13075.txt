@@ -1,0 +1,1 @@
+Light followed car from start of journey to destination&#44 stopping when vehicle stopped and so forth.

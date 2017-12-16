@@ -1,0 +1,1 @@
+Bright object in sky disappears and reappears. Seems to also emit smaller objects.

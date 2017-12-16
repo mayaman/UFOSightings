@@ -1,0 +1,1 @@
+Moving object resembling a star makes sweeping turn before disappearing.

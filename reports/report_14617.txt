@@ -1,0 +1,1 @@
+Red light appearing/disappearing and then moving into 3 different locations and disappearing.

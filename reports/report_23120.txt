@@ -1,0 +1,1 @@
+Triangle shaped object with lights on each corner. Bright strobe lights leading in direction it was going. Going very slow and then sto

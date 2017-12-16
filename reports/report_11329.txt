@@ -1,0 +1,1 @@
+5 glowing lights following eachother and disappear

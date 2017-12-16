@@ -1,0 +1,1 @@
+Red lights blinking or turning on/off in an estimated shape of a triangle.

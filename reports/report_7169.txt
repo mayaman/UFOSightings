@@ -1,0 +1,1 @@
+White spherical object w/possible point at the bottom and blinking red and green lights.

@@ -1,0 +1,1 @@
+Object had no lights till it was gone moved horizontally.

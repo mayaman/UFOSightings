@@ -1,0 +1,1 @@
+Object making no sound&#44 and near almost no obstructions&#44 dissapears after observer breaks gaze for a few seconds.

@@ -1,0 +1,1 @@
+Fast moving cylinder object vanishes into sky.

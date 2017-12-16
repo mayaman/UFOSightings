@@ -1,0 +1,1 @@
+Object appeared in telescope field of view&#44 and executed 90 degree turn before moving out of field of view.

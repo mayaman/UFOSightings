@@ -1,0 +1,1 @@
+A large triangle object  w/ 3 lights and a glowing center which made no sound.  Flying below the full moon.

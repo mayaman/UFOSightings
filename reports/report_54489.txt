@@ -1,0 +1,1 @@
+One main cbject and seven smaller objects that came out of the main object.

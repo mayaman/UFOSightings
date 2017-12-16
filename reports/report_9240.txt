@@ -1,0 +1,1 @@
+Triangle lights seen then gone instantly.

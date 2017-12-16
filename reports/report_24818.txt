@@ -1,0 +1,1 @@
+Red light not flashing moving slow and hovering then disappeared.

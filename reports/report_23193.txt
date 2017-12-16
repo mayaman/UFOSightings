@@ -1,0 +1,1 @@
+Red Star like object that changes color flies at intense high speed in zigzag direction and circular motion.

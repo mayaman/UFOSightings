@@ -1,0 +1,1 @@
+Triangle shape and seperated pulsating lightballs moving over city to the north.
